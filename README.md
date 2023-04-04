@@ -5,7 +5,7 @@
 
 
 
-In this Project, I've built a WebApp which fetches data from coingecko's free public API. Using this WebApp one can track the current rate of various Crypto Currencies at present in the market. 
+In this Project, I've built a WebApp which fetches data from Coingecko's Free Public API. Using this WebApp one can track the current rate of various Crypto Currencies at present in the market. 
 
 
 Use the `README.md` to get started.
@@ -30,7 +30,7 @@ The Tech Stacks used are:
 To get started, first of all go to the website of Coingecko and perform all the steps for generating API URL. After generating the URL for API download the images for various cryptocurrencies.
 
 ## Installation
-After generating API URL we'll use JavaScript logics and JSON format to parse the data.
+After generating API URL we'll use JavaScript Logics and JSON format to parse the data.
 
 * CoinGecko
 
@@ -45,6 +45,6 @@ After generating API URL we'll use JavaScript logics and JSON format to parse th
 <!-- CONTACT -->
 # Contact
 
-Name: Shivank Kapur - shivankkapur2004@example.com
+Name: Shivank Kapur - shivankkapur2004@gmail.com
 
 Project Link: https://shivankk26.github.io/Crypto-Tracker-App/
